@@ -8,6 +8,7 @@ Created on Fri Jan 29 11:51:41 2021
 
 def testfunc():
     print('This is a script of test code.')
+    print('This second line was added in a branch.')
     return
 
 def main():
